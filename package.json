@@ -1,0 +1,9 @@
+{
+        "name": "azure-function-postgres-api",
+        "version": "1.0.0",
+        "description": "Azure Functions for inserting and listing companies",
+        "main": "index.js",
+        "dependencies": {
+          "pg": "^8.7.1"
+        }
+}      

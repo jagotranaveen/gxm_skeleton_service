@@ -1,0 +1,14 @@
+{
+        "IsEncrypted": false,
+        "Values": 
+        {
+          "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+          "FUNCTIONS_WORKER_RUNTIME": "node",
+          "PGUSER": "hspadmin",
+          "PGHOST": "gxmdevdb.postgres.azure.com",
+          "PGDATABASE": "gxmuserdb",
+          "PGPASSWORD": "Aug@2024",
+          "PGPORT": "5432"
+        }
+}
+      
